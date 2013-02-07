@@ -1,6 +1,7 @@
 # Untangler
 
-This is the email thread parser used by untangle.io. This is a *very*
+This is the email thread parser used by
+[untangle.io](http://untangle.io). This is a *very*
 early version and not intended for production use, but just wanted to
 get it out there.
 
